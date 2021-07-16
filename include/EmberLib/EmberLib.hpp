@@ -5,6 +5,7 @@
 #ifndef EMBERBROWSER_EMBERLIB_HPP
 #define EMBERBROWSER_EMBERLIB_HPP
 
-void hello(void);
+/* Various common includes */
+#include <EmberLib/Common.hpp>
 
 #endif //EMBERBROWSER_EMBERLIB_HPP
