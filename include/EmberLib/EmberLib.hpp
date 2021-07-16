@@ -8,4 +8,6 @@
 /* Various common includes */
 #include <EmberLib/Common.hpp>
 
+void hello();
+
 #endif //EMBERBROWSER_EMBERLIB_HPP
